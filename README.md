@@ -1,1 +1,1 @@
-This is a program that will deal a set number of hands, evaluate each type of hand's value, and print the probabilities of each type of hand at the end. This program was a project for one of my classes at Carthage College.
+
